@@ -38,8 +38,10 @@ matplotlib
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/your-repo-url/nodule-classifier.git
-   cd nodule-classifier
+   git clone https://github.com/BhargavHirani06/Lung-Seg-and-Classification.git
+   cd Lung-Seg-and-Classification
+
+   
 
 2. Install the dependencies:
    pip install -r requirements.txt
@@ -60,7 +62,7 @@ Extract patches from DICOM images based on given coordinates:
 
 4. Running the GUI
 To launch the GUI for the application:
-   python Main(GUI).py
+   python Main(GUI).py(Just a basic file main.py is more effective)
 
 Project Structure
 
