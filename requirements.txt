@@ -1,0 +1,8 @@
+pydicom
+opencv-python
+numpy
+pillow
+pandas
+tensorflow
+scikit-image
+matplotlib
